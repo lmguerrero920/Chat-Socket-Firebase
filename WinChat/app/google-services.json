@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "65973150436",
+    "project_id": "winchat-cd357",
+    "storage_bucket": "winchat-cd357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65973150436:android:104e956332dd76695a82f1",
+        "android_client_info": {
+          "package_name": "com.luciusblack.winchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65973150436-qmu8g9fh9bmsjm3t7tjmo0adprl9ve45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luciusblack.winchat",
+            "certificate_hash": "8e14a2351098f2bf34e47eaa19bae110d45c29ea"
+          }
+        },
+        {
+          "client_id": "65973150436-e5vmnl0d61dkvmujtudbtar7ml5a2odn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl8jAdAY-ZSlIS1-g-NpHYTRkK7kWu0dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65973150436-e5vmnl0d61dkvmujtudbtar7ml5a2odn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
